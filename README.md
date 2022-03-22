@@ -6,8 +6,8 @@
 
 #### Atualmente estudante de Desenvolvimento Fullstack no SENAC. Formado em Ciencia da Computação pela FIB - Faculdades Integradas de Bauru
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Sempre me busca de aprendizado💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> Horas vagas estudando ou destruindo no CS e PUBG.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Sempre em busca de aprendizado💻
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> Horas vagas estudando ou Jogando CS e PUBG.
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Deus abençoe o Javascript 🌐
 
 
