@@ -1,24 +1,3 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Olá Mundo! Sou PORTEX &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-<div align="right"> 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/98721769/159516280-2b6a2179-3c23-45b8-838b-1f97431066ae.gif" width="500" height="320" />
-</div>
-
-#### Atualmente estudante de Desenvolvimento Fullstack no SENAC. Formado em Ciencia da Computação pela FIB - Faculdades Integradas de Bauru
-
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Sempre em busca de aprendizado💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> Horas vagas estudando ou Jogando CS e PUBG.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Deus abençoe o Javascript 🌐
-
-
-<br>
-<br>
-
-## Stats:
-
-<br>
-
-
 <div align="center">
   <a href="https://github.com/fehporto">
   <img display:"flex" height="140em" src="https://github-readme-stats.vercel.app/api?username=fehporto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
